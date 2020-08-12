@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+=======
+It was the best of times it was the blurst of times.
+>>>>>>> ee635b9842c31edc4ad9974af9a88ca7adcd9539
 
 If I have seen further it is by standing on the shoulders of giants
