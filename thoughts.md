@@ -7,3 +7,6 @@ New Strategies
 
 1. Utilize multiple resources to gain clarity on complex concepts.
 2. Don't forget to reserve time for health and wellness.
+
+Shoutout to a great friend and fellow Turing Alum, James Sullivan, who has been immensely supportive in preparing me for this exciting new adventure!
+Also, many thanks to my friends, family and Turing staff for all of the support!
