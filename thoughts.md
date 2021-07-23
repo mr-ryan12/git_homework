@@ -17,5 +17,4 @@ Also, many thanks to my friends, family and Turing staff for all of the support!
 2. Run "git status"
 3. Run "git add"
 4. Run "git commit -m "message"
-5. Run git push origin main
-6. This step will be removed                                                          
+5. Run git push origin main                                                          
