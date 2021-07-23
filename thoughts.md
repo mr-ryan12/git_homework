@@ -10,3 +10,12 @@ New Strategies
 
 Shoutout to a great friend and fellow Turing Alum, James Sullivan, who has been immensely supportive in preparing me for this exciting new adventure!
 Also, many thanks to my friends, family and Turing staff for all of the support!
+
+# Session 3 - GitHub Practice
+## How to Push Changes to GitHub
+1. Make changes in file
+2. Run "git status"
+3. Run "git add"
+4. Run "git commit -m "message"
+5. Run git push origin main
+6. This step will be removed                                                          
